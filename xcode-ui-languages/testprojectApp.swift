@@ -1,6 +1,6 @@
 //
 //  testprojectApp.swift
-//  xcode-languages
+//  xcode-ui-languages
 //
 //  Created on 12/24/25.
 //
@@ -11,7 +11,7 @@ import SwiftUI
 struct testprojectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text("hello world")
         }
     }
 }

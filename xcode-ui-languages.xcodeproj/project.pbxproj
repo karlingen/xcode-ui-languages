@@ -1,0 +1,1708 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2E5E377A2EFC914600EC74FC /* xcode-ui-languages .app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "xcode-ui-languages .app"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		2E5E377C2EFC914600EC74FC /* xcode-ui-languages */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "xcode-ui-languages";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2E5E37772EFC914600EC74FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2E5E37712EFC914600EC74FC = {
+			isa = PBXGroup;
+			children = (
+				2E5E377C2EFC914600EC74FC /* xcode-ui-languages */,
+				2E5E377B2EFC914600EC74FC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2E5E377B2EFC914600EC74FC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2E5E377A2EFC914600EC74FC /* xcode-ui-languages .app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2E5E37792EFC914600EC74FC /* xcode-ui-languages  */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E5E37852EFC914700EC74FC /* Build configuration list for PBXNativeTarget "xcode-ui-languages " */;
+			buildPhases = (
+				2E5E37762EFC914600EC74FC /* Sources */,
+				2E5E37772EFC914600EC74FC /* Frameworks */,
+				2E5E37782EFC914600EC74FC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				2E5E377C2EFC914600EC74FC /* xcode-ui-languages */,
+			);
+			name = "xcode-ui-languages ";
+			packageProductDependencies = (
+			);
+			productName = "xcode-ui-languages";
+			productReference = 2E5E377A2EFC914600EC74FC /* xcode-ui-languages .app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2E5E37722EFC914600EC74FC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					2E5E37792EFC914600EC74FC = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 2E5E37752EFC914600EC74FC /* Build configuration list for PBXProject "xcode-ui-languages" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				ar,
+				bn,
+				bg,
+				ca,
+				"zh-HK",
+				"zh-Hans",
+				"zh-Hant",
+				hr,
+				cs,
+				da,
+				nl,
+				"en-AU",
+				"en-IN",
+				"en-GB",
+				fi,
+				fr,
+				"fr-CA",
+				de,
+				el,
+				gu,
+				he,
+				hi,
+				hu,
+				id,
+				it,
+				ja,
+				kn,
+				kk,
+				ko,
+				lt,
+				ms,
+				ml,
+				mr,
+				nb,
+				or,
+				pl,
+				"pt-BR",
+				"pt-PT",
+				pa,
+				ro,
+				ru,
+				sk,
+				sl,
+				es,
+				"es-419",
+				"es-US",
+				sv,
+				ta,
+				te,
+				th,
+				tr,
+				uk,
+				ur,
+				vi,
+				bal,
+				ab,
+				bax,
+				ace,
+				ach,
+				ada,
+				ady,
+				aa,
+				afh,
+				bin,
+				bi,
+				bpy,
+				Base,
+				af,
+				zbl,
+				byn,
+				"byn-ER",
+				cic,
+				bez,
+				sr,
+				bik,
+				bs,
+				brh,
+				bra,
+				bew,
+				bua,
+				bug,
+				bum,
+				nwc,
+				bej,
+				bbc,
+				bar,
+				cad,
+				frc,
+				frp,
+				av,
+				"af-NA",
+				"af-ZA",
+				agq,
+				"agq-CM",
+				ain,
+				"ain-JP",
+				ak,
+				"ak-GH",
+				akk,
+				bss,
+				akz,
+				sq,
+				car,
+				"yue-Hans",
+				"sq-AL",
+				"sq-XK",
+				"sq-MK",
+				ale,
+				arq,
+				ber,
+				"ber-Latn",
+				"ber-Latn-MA",
+				"ber-Tfng",
+				"ber-Tfng-MA",
+				ase,
+				am,
+				"am-ET",
+				egy,
+				bqi,
+				grc,
+				anp,
+				blo,
+				"blo-BJ",
+				njo,
+				apw,
+				"apw-US",
+				"ar-DZ",
+				"ar-BH",
+				"ar-TD",
+				"ar-KM",
+				"ar-DJ",
+				"ar-EG",
+				"ar-ER",
+				"ar-IQ",
+				"ar-IL",
+				"ar-JO",
+				"ar-KW",
+				"ar-LB",
+				"ar-LY",
+				"ar-MR",
+				"ar-MA",
+				"ar-OM",
+				"ar-PS",
+				"ar-QA",
+				"ar-SA",
+				"ar-SO",
+				"ar-SS",
+				"ar-SD",
+				"ar-SY",
+				"ar-TN",
+				"ar-AE",
+				"ar-EH",
+				"ar-YE",
+				"ar-001",
+				ars,
+				an,
+				arc,
+				aro,
+				arp,
+				arw,
+				hy,
+				"hy-AM",
+				rup,
+				as,
+				"as-IN",
+				syr,
+				"syr-IQ",
+				"syr-SY",
+				ast,
+				"ast-ES",
+				asa,
+				"asa-TZ",
+				cch,
+				ae,
+				awa,
+				ay,
+				"az-Cyrl",
+				"az-Cyrl-AZ",
+				az,
+				"az-AZ",
+				bfq,
+				ksf,
+				"ksf-CM",
+				bfd,
+				ban,
+				bm,
+				"bm-ML",
+				"bn-BD",
+				"bn-IN",
+				bjn,
+				bas,
+				"bas-CM",
+				ba,
+				"ba-RU",
+				eu,
+				"eu-ES",
+				be,
+				"be-BY",
+				bem,
+				"bem-ZM",
+				"bez-TZ",
+				bho,
+				"bho-IN",
+				brx,
+				"brx-IN",
+				"bs-Cyrl",
+				"bs-Cyrl-BA",
+				"bs-BA",
+				br,
+				"br-FR",
+				"bg-BG",
+				my,
+				"my-MM",
+				yue,
+				"yue-Hans-CN",
+				"yue-Hant",
+				"yue-Hant-CN",
+				"yue-Hant-HK",
+				cps,
+				"ca-AD",
+				"ca-FR",
+				"ca-IT",
+				"ca-ES",
+				cay,
+				ceb,
+				"ceb-PH",
+				tzm,
+				"tzm-MA",
+				dtp,
+				esu,
+				shu,
+				chg,
+				ccp,
+				"ccp-BD",
+				"ccp-IN",
+				ch,
+				ce,
+				"ce-RU",
+				chr,
+				"chr-US",
+				chy,
+				chb,
+				"cic-US",
+				cgg,
+				"cgg-UG",
+				qug,
+				zh,
+				"zh-Hans-CN",
+				"zh-Hans-HK",
+				"zh-Hans-JP",
+				"zh-Hans-MO",
+				"zh-Hans-MY",
+				"zh-Hans-SG",
+				"zh-Hant-CN",
+				"zh-Hant-HK",
+				"zh-Hant-JP",
+				"zh-Hant-MO",
+				"zh-Hant-MY",
+				"zh-Hant-TW",
+				chn,
+				chp,
+				cst,
+				cho,
+				"cho-US",
+				cu,
+				chk,
+				cv,
+				"cv-RU",
+				syc,
+				ksh,
+				"ksh-DE",
+				swb,
+				cop,
+				kw,
+				"kw-GB",
+				co,
+				"co-FR",
+				cr,
+				crh,
+				"hr-BA",
+				"hr-HR",
+				"cs-CZ",
+				dak,
+				"da-DK",
+				"da-GL",
+				dar,
+				dzg,
+				del,
+				dv,
+				"dv-MV",
+				din,
+				doi,
+				"doi-IN",
+				dgr,
+				dua,
+				"dua-CM",
+				"nl-AW",
+				"nl-BE",
+				"nl-BQ",
+				"nl-CW",
+				"nl-NL",
+				"nl-SX",
+				"nl-SR",
+				dyu,
+				dz,
+				"dz-BT",
+				frs,
+				efi,
+				arz,
+				eka,
+				elx,
+				ebu,
+				"ebu-KE",
+				egl,
+				"en-AL",
+				"en-AS",
+				"en-AI",
+				"en-AG",
+				"en-AR",
+				"en-AT",
+				"en-BS",
+				"en-BD",
+				"en-BB",
+				"en-BE",
+				"en-BZ",
+				"en-BM",
+				"en-BW",
+				"en-BR",
+				"en-VG",
+				"en-BN",
+				"en-BG",
+				"en-BI",
+				"en-CM",
+				"en-CA",
+				"en-CV",
+				"en-KY",
+				"en-IO",
+				"en-CL",
+				"en-CN",
+				"en-CX",
+				"en-CC",
+				"en-CO",
+				"en-CK",
+				"en-CY",
+				"en-CZ",
+				"en-DK",
+				"en-DG",
+				"en-DM",
+				"en-ER",
+				"en-EE",
+				"en-SZ",
+				"en-150",
+				"en-FK",
+				"en-FJ",
+				"en-FI",
+				"en-FR",
+				"en-GM",
+				"en-DE",
+				"en-GH",
+				"en-GI",
+				"en-GR",
+				"en-GD",
+				"en-GU",
+				"en-GG",
+				"en-GY",
+				"en-HK",
+				"en-HU",
+				"en-ID",
+				"en-IE",
+				"en-IM",
+				"en-IL",
+				"en-JM",
+				"en-JP",
+				"en-JE",
+				"en-KE",
+				"en-KI",
+				"en-LV",
+				"en-LS",
+				"en-LR",
+				"en-LT",
+				"en-MO",
+				"en-MG",
+				"en-MW",
+				"en-MY",
+				"en-MV",
+				"en-MT",
+				"en-MH",
+				"en-MU",
+				"en-MX",
+				"en-FM",
+				"en-MS",
+				"en-MM",
+				"en-NA",
+				"en-NR",
+				"en-NL",
+				"en-NZ",
+				"en-NG",
+				"en-NU",
+				"en-NF",
+				"en-MP",
+				"en-NO",
+				"en-PK",
+				"en-PW",
+				"en-PG",
+				"en-PH",
+				"en-PN",
+				"en-PL",
+				"en-PT",
+				"en-PR",
+				"en-RU",
+				"en-RW",
+				"en-WS",
+				"en-SA",
+				"en-SC",
+				"en-SL",
+				"en-SG",
+				"en-SX",
+				"en-SK",
+				"en-SI",
+				"en-SB",
+				"en-ZA",
+				"en-KR",
+				"en-SS",
+				"en-SH",
+				"en-KN",
+				"en-LC",
+				"en-VC",
+				"en-SD",
+				"en-SE",
+				"en-CH",
+				"en-TW",
+				"en-TZ",
+				"en-TH",
+				"en-TK",
+				"en-TO",
+				"en-TT",
+				"en-TC",
+				"en-TV",
+				"en-TR",
+				"en-UM",
+				"en-VI",
+				"en-UG",
+				"en-UA",
+				"en-AE",
+				"en-US",
+				"en-US-POSIX",
+				"en-VU",
+				"en-ZM",
+				"en-ZW",
+				"en-001",
+				en_US,
+				myv,
+				"myv-RU",
+				eo,
+				"eo-001",
+				et,
+				"et-EE",
+				ee,
+				"ee-GH",
+				"ee-TG",
+				ewo,
+				"ewo-CM",
+				ext,
+				fan,
+				fo,
+				"fo-DK",
+				"fo-FO",
+				hif,
+				fj,
+				fil,
+				"fil-PH",
+				"fi-FI",
+				fon,
+				gur,
+				"fr-DZ",
+				"fr-BE",
+				"fr-BJ",
+				"fr-BF",
+				"fr-BI",
+				"fr-CM",
+				"fr-CF",
+				"fr-TD",
+				"fr-KM",
+				"fr-CG",
+				"fr-CD",
+				"fr-CI",
+				"fr-DJ",
+				"fr-GQ",
+				"fr-FR",
+				"fr-GF",
+				"fr-PF",
+				"fr-GA",
+				"fr-GP",
+				"fr-GN",
+				"fr-HT",
+				"fr-LU",
+				"fr-MG",
+				"fr-ML",
+				"fr-MQ",
+				"fr-MR",
+				"fr-MU",
+				"fr-YT",
+				"fr-MC",
+				"fr-MA",
+				"fr-NC",
+				"fr-NE",
+				"fr-RE",
+				"fr-RW",
+				"fr-SN",
+				"fr-SC",
+				"fr-BL",
+				"fr-MF",
+				"fr-PM",
+				"fr-CH",
+				"fr-SY",
+				"fr-TG",
+				"fr-TN",
+				"fr-VU",
+				"fr-WF",
+				fur,
+				"fur-IT",
+				"ff-Adlm",
+				"ff-Adlm-BF",
+				"ff-Adlm-CM",
+				"ff-Adlm-GM",
+				"ff-Adlm-GH",
+				"ff-Adlm-GN",
+				"ff-Adlm-GW",
+				"ff-Adlm-LR",
+				"ff-Adlm-MR",
+				"ff-Adlm-NE",
+				"ff-Adlm-NG",
+				"ff-Adlm-SN",
+				"ff-Adlm-SL",
+				ff,
+				"ff-BF",
+				"ff-CM",
+				"ff-GM",
+				"ff-GH",
+				"ff-GN",
+				"ff-GW",
+				"ff-LR",
+				"ff-MR",
+				"ff-NE",
+				"ff-NG",
+				"ff-SN",
+				"ff-SL",
+				gaa,
+				"gaa-GH",
+				gag,
+				gl,
+				"gl-ES",
+				gan,
+				lg,
+				"lg-UG",
+				gay,
+				gba,
+				gez,
+				"gez-ER",
+				"gez-ET",
+				ka,
+				"ka-GE",
+				"de-AT",
+				"de-BE",
+				"de-DE",
+				"de-IT",
+				"de-LI",
+				"de-LU",
+				"de-CH",
+				aln,
+				bbj,
+				glk,
+				gil,
+				gon,
+				gor,
+				got,
+				grb,
+				"el-CY",
+				"el-GR",
+				gn,
+				"gn-PY",
+				"gu-IN",
+				guz,
+				"guz-KE",
+				gwi,
+				hai,
+				ht,
+				hak,
+				bgc,
+				"bgc-IN",
+				ha,
+				"ha-GH",
+				"ha-NE",
+				"ha-NG",
+				haw,
+				"haw-US",
+				"he-IL",
+				hz,
+				hil,
+				"hi-IN",
+				"hi-Latn",
+				"hi-Latn-IN",
+				ho,
+				hit,
+				hmn,
+				"hmn-CN",
+				"hu-HU",
+				hup,
+				iba,
+				ibb,
+				is,
+				"is-IS",
+				io,
+				"io-001",
+				ig,
+				"ig-NG",
+				ilo,
+				smn,
+				"smn-FI",
+				"id-ID",
+				izh,
+				inh,
+				ia,
+				"ia-001",
+				ie,
+				"ie-EE",
+				iu,
+				"iu-CA",
+				ik,
+				ga,
+				"ga-IE",
+				"ga-GB",
+				isc,
+				"it-IT",
+				"it-SM",
+				"it-CH",
+				"it-VA",
+				jam,
+				"ja-JP",
+				jv,
+				"jv-ID",
+				kaj,
+				"kaj-NG",
+				dyo,
+				"dyo-SN",
+				jrb,
+				jpr,
+				jut,
+				kbd,
+				kea,
+				"kea-CV",
+				kab,
+				"kab-DZ",
+				kac,
+				kgp,
+				"kgp-BR",
+				kkj,
+				"kkj-CM",
+				kl,
+				"kl-GL",
+				kln,
+				"kln-KE",
+				xal,
+				kam,
+				"kam-KE",
+				kbl,
+				xnr,
+				"xnr-IN",
+				"kn-IN",
+				kr,
+				kaa,
+				krc,
+				krl,
+				ks,
+				"ks-Deva",
+				"ks-Deva-IN",
+				"ks-Arab",
+				"ks-Arab-IN",
+				"ks-IN",
+				csb,
+				kaw,
+				"kk-KZ",
+				ken,
+				kha,
+				km,
+				"km-KH",
+				kho,
+				khw,
+				ki,
+				"ki-KE",
+				sjd,
+				kmb,
+				krj,
+				rw,
+				"rw-RW",
+				kiu,
+				tlh,
+				bkm,
+				kv,
+				koi,
+				kg,
+				gom,
+				kok,
+				"kok-IN",
+				"kok-Latn",
+				"kok-Latn-IN",
+				"ko-CN",
+				"ko-KP",
+				"ko-KR",
+				kfo,
+				kos,
+				avk,
+				khq,
+				"khq-ML",
+				ses,
+				"ses-ML",
+				kpe,
+				"kpe-GN",
+				"kpe-LR",
+				kri,
+				kj,
+				kum,
+				ku,
+				"ku-TR",
+				ckb,
+				"ckb-IR",
+				"ckb-IQ",
+				kru,
+				kut,
+				kxv,
+				"kxv-Deva",
+				"kxv-Deva-IN",
+				"kxv-Latn",
+				"kxv-Latn-IN",
+				"kxv-Orya",
+				"kxv-Orya-IN",
+				"kxv-Telu",
+				"kxv-Telu-IN",
+				nmg,
+				"nmg-CM",
+				ky,
+				"ky-KG",
+				quc,
+				lad,
+				lkt,
+				"lkt-US",
+				lam,
+				lag,
+				"lag-TZ",
+				lo,
+				"lo-LA",
+				ltg,
+				la,
+				lv,
+				"lv-LV",
+				lzz,
+				lez,
+				ii,
+				"ii-CN",
+				lij,
+				"lij-IT",
+				li,
+				ln,
+				"ln-AO",
+				"ln-CF",
+				"ln-CG",
+				"ln-CD",
+				lfn,
+				lzh,
+				"lt-LT",
+				liv,
+				jbo,
+				"jbo-001",
+				lmo,
+				"lmo-IT",
+				nds,
+				"nds-DE",
+				"nds-NL",
+				sli,
+				dsb,
+				"dsb-DE",
+				loz,
+				lu,
+				"lu-CD",
+				lua,
+				lui,
+				smj,
+				lun,
+				luo,
+				"luo-KE",
+				lut,
+				lb,
+				"lb-LU",
+				luy,
+				"luy-KE",
+				mde,
+				mk,
+				"mk-MK",
+				jmc,
+				"jmc-TZ",
+				mad,
+				maf,
+				mag,
+				mdh,
+				vmf,
+				mai,
+				"mai-IN",
+				mak,
+				vmw,
+				"vmw-MZ",
+				mgh,
+				"mgh-MZ",
+				kde,
+				"kde-TZ",
+				mg,
+				"mg-MG",
+				"ms-Arab",
+				"ms-Arab-BN",
+				"ms-Arab-MY",
+				"ms-BN",
+				"ms-ID",
+				"ms-MY",
+				"ms-SG",
+				"ml-IN",
+				mt,
+				"mt-MT",
+				mnc,
+				mid,
+				"mid-IQ",
+				mdr,
+				man,
+				mni,
+				"mni-Beng",
+				"mni-Beng-IN",
+				"mni-Mtei",
+				"mni-Mtei-IN",
+				gv,
+				"gv-IM",
+				mi,
+				"mi-NZ",
+				arn,
+				"arn-CL",
+				"mr-IN",
+				chm,
+				mh,
+				mwr,
+				mas,
+				"mas-KE",
+				"mas-TZ",
+				mzn,
+				"mzn-IR",
+				byv,
+				men,
+				mwv,
+				mer,
+				"mer-KE",
+				mgo,
+				"mgo-CM",
+				mic,
+				"mic-CA",
+				dum,
+				enm,
+				frm,
+				gmh,
+				mga,
+				nan,
+				min,
+				xmf,
+				mwl,
+				lus,
+				moh,
+				"moh-CA",
+				mdf,
+				lol,
+				mn,
+				"mn-MN",
+				mfe,
+				"mfe-MU",
+				ary,
+				mos,
+				mua,
+				"mua-CM",
+				ttt,
+				mus,
+				"mus-US",
+				mye,
+				nqo,
+				"nqo-GN",
+				naq,
+				"naq-NA",
+				na,
+				nv,
+				"nv-US",
+				ng,
+				nap,
+				ne,
+				"ne-IN",
+				"ne-NP",
+				new,
+				nez,
+				sba,
+				nnh,
+				"nnh-CM",
+				jgo,
+				"jgo-CM",
+				yrl,
+				"yrl-BR",
+				"yrl-CO",
+				"yrl-VE",
+				nia,
+				pcm,
+				"pcm-NG",
+				niu,
+				nog,
+				nd,
+				"nd-ZW",
+				se,
+				"se-FI",
+				"se-NO",
+				"se-SE",
+				frr,
+				lrc,
+				"lrc-IR",
+				"lrc-IQ",
+				nso,
+				"nso-ZA",
+				"nb-NO",
+				"nb-SJ",
+				nn,
+				"nn-NO",
+				nov,
+				nus,
+				"nus-SS",
+				nym,
+				ny,
+				"ny-MW",
+				nyn,
+				"nyn-UG",
+				tog,
+				nyo,
+				nzi,
+				oc,
+				"oc-FR",
+				"oc-ES",
+				"or-IN",
+				oj,
+				ang,
+				fro,
+				goh,
+				sga,
+				non,
+				peo,
+				pro,
+				otk,
+				oui,
+				om,
+				"om-ET",
+				"om-KE",
+				osa,
+				"osa-US",
+				os,
+				"os-GE",
+				"os-RU",
+				ota,
+				pal,
+				pfl,
+				pau,
+				pi,
+				pam,
+				pag,
+				pap,
+				ps,
+				"ps-AF",
+				"ps-PK",
+				pdc,
+				fa,
+				"fa-AF",
+				"fa-IR",
+				phn,
+				pcd,
+				pms,
+				sje,
+				pdt,
+				pon,
+				"pl-PL",
+				pnt,
+				pt,
+				"pt-AO",
+				"pt-CV",
+				"pt-GQ",
+				"pt-FR",
+				"pt-GW",
+				"pt-LU",
+				"pt-MO",
+				"pt-MZ",
+				"pt-ST",
+				"pt-CH",
+				"pt-TL",
+				prg,
+				"prg-PL",
+				"pa-IN",
+				"pa-Arab",
+				"pa-Arab-PK",
+				"pa-Aran-PK",
+				qu,
+				"qu-BO",
+				"qu-EC",
+				"qu-PE",
+				raj,
+				"raj-IN",
+				rap,
+				rar,
+				rej,
+				"rej-ID",
+				"rej-Rjng",
+				"rej-Rjng-ID",
+				rif,
+				rhg,
+				"rhg-Rohg",
+				"rhg-Rohg-BD",
+				"rhg-Rohg-MM",
+				rgn,
+				"ro-MD",
+				"ro-RO",
+				rm,
+				"rm-CH",
+				rom,
+				rof,
+				"rof-TZ",
+				rtm,
+				rug,
+				rn,
+				"rn-BI",
+				"ru-BY",
+				"ru-KZ",
+				"ru-KG",
+				"ru-MD",
+				"ru-RU",
+				"ru-UA",
+				rue,
+				rwk,
+				"rwk-TZ",
+				ssy,
+				sah,
+				"sah-RU",
+				sam,
+				saq,
+				"saq-KE",
+				sm,
+				"sm-AS",
+				"sm-WS",
+				sgs,
+				sad,
+				sg,
+				"sg-CF",
+				sbp,
+				"sbp-TZ",
+				sa,
+				"sa-IN",
+				sat,
+				"sat-Deva",
+				"sat-Deva-IN",
+				"sat-Olck",
+				"sat-Olck-IN",
+				sc,
+				"sc-IT",
+				sas,
+				sdc,
+				stq,
+				saz,
+				sco,
+				gd,
+				"gd-GB",
+				sly,
+				sel,
+				seh,
+				"seh-MZ",
+				see,
+				"sr-BA",
+				"sr-XK",
+				"sr-ME",
+				"sr-RS",
+				"sr-Latn",
+				"sr-Latn-BA",
+				"sr-Latn-XK",
+				"sr-Latn-ME",
+				"sr-Latn-RS",
+				srr,
+				sei,
+				ksb,
+				"ksb-TZ",
+				shn,
+				wuu,
+				shp,
+				sn,
+				"sn-ZW",
+				scn,
+				"scn-IT",
+				sid,
+				bla,
+				szl,
+				"szl-PL",
+				sd,
+				"sd-Arab",
+				"sd-Arab-PK",
+				"sd-Deva",
+				"sd-Deva-IN",
+				si,
+				"si-LK",
+				sms,
+				den,
+				"sk-SK",
+				"sl-SI",
+				xog,
+				"xog-UG",
+				sog,
+				so,
+				"so-DJ",
+				"so-ET",
+				"so-KE",
+				"so-SO",
+				snk,
+				nr,
+				"nr-ZA",
+				sma,
+				alt,
+				sdh,
+				st,
+				"st-LS",
+				"st-ZA",
+				"es-AG",
+				"es-AR",
+				"es-BS",
+				"es-BB",
+				"es-BZ",
+				"es-BM",
+				"es-BO",
+				"es-BR",
+				"es-VG",
+				"es-CA",
+				"es-IC",
+				"es-BQ",
+				"es-KY",
+				"es-EA",
+				"es-CL",
+				"es-CO",
+				"es-CR",
+				"es-CU",
+				"es-CW",
+				"es-DM",
+				"es-DO",
+				"es-EC",
+				"es-SV",
+				"es-GQ",
+				"es-GD",
+				"es-GT",
+				"es-GY",
+				"es-HT",
+				"es-HN",
+				"es-MX",
+				"es-NI",
+				"es-003",
+				"es-PA",
+				"es-PY",
+				"es-PE",
+				"es-PH",
+				"es-PR",
+				"es-ES",
+				"es-KN",
+				"es-LC",
+				"es-VC",
+				"es-TT",
+				"es-TC",
+				"es-VI",
+				"es-UY",
+				"es-VE",
+				srn,
+				suk,
+				sux,
+				su,
+				"su-Latn",
+				"su-Latn-ID",
+				sus,
+				sw,
+				"sw-CD",
+				"sw-KE",
+				"sw-TZ",
+				"sw-UG",
+				csw,
+				"csw-CA",
+				ss,
+				"ss-SZ",
+				"ss-ZA",
+				"sv-AX",
+				"sv-FI",
+				"sv-SE",
+				gsw,
+				"gsw-FR",
+				"gsw-LI",
+				"gsw-CH",
+				shi,
+				"shi-MA",
+				"shi-Tfng",
+				"shi-Tfng-MA",
+				ty,
+				dav,
+				"dav-KE",
+				tg,
+				"tg-TJ",
+				tly,
+				tmh,
+				zgh,
+				"zgh-MA",
+				"ta-IN",
+				"ta-MY",
+				"ta-SG",
+				"ta-LK",
+				trv,
+				"trv-TW",
+				twq,
+				"twq-NE",
+				tt,
+				"tt-RU",
+				"te-IN",
+				ter,
+				teo,
+				"teo-KE",
+				"teo-UG",
+				tet,
+				"th-TH",
+				bo,
+				"bo-CN",
+				"bo-IN",
+				tig,
+				"tig-ER",
+				ti,
+				"ti-ER",
+				"ti-ET",
+				tem,
+				tiv,
+				tli,
+				tpi,
+				tkl,
+				tok,
+				"tok-001",
+				to,
+				"to-TO",
+				fit,
+				tkr,
+				tsd,
+				tsi,
+				ts,
+				"ts-ZA",
+				tn,
+				"tn-BW",
+				"tn-ZA",
+				tcy,
+				tum,
+				aeb,
+				"tr-CY",
+				"tr-TR",
+				tk,
+				"tk-TM",
+				tru,
+				tvl,
+				tyv,
+				kcg,
+				"kcg-NG",
+				udm,
+				uga,
+				"uk-UA",
+				umb,
+				sju,
+				hsb,
+				"hsb-DE",
+				"ur-Arab",
+				"ur-Arab-IN",
+				"ur-Arab-PK",
+				"ur-IN",
+				"ur-PK",
+				ug,
+				"ug-CN",
+				"uz-Arab",
+				"uz-Arab-AF",
+				"uz-Cyrl",
+				"uz-Cyrl-UZ",
+				uz,
+				"uz-UZ",
+				"vai-Latn",
+				"vai-Latn-LR",
+				vai,
+				"vai-LR",
+				ve,
+				"ve-ZA",
+				vec,
+				"vec-IT",
+				vep,
+				"vi-VN",
+				vo,
+				vro,
+				vot,
+				vun,
+				"vun-TZ",
+				wa,
+				"wa-BE",
+				wae,
+				"wae-CH",
+				nnp,
+				"nnp-IN",
+				war,
+				wbp,
+				was,
+				guc,
+				cy,
+				"cy-GB",
+				vls,
+				bgn,
+				fy,
+				"fy-NL",
+				mrj,
+				lah,
+				hch,
+				pqm,
+				"pqm-CA",
+				wal,
+				"wal-ET",
+				wo,
+				"wo-SN",
+				xh,
+				"xh-ZA",
+				hsn,
+				yav,
+				"yav-CM",
+				yao,
+				yap,
+				ybb,
+				yi,
+				"yi-UA",
+				yo,
+				"yo-BJ",
+				"yo-NG",
+				zap,
+				dje,
+				"dje-NE",
+				zza,
+				zea,
+				zen,
+				za,
+				"za-CN",
+				gbz,
+				zu,
+				"zu-ZA",
+				zun,
+			);
+			mainGroup = 2E5E37712EFC914600EC74FC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2E5E377B2EFC914600EC74FC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2E5E37792EFC914600EC74FC /* xcode-ui-languages  */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2E5E37782EFC914600EC74FC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2E5E37762EFC914600EC74FC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2E5E37832EFC914700EC74FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = ZQSS6CA88E;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2E5E37842EFC914700EC74FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = ZQSS6CA88E;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		2E5E37862EFC914700EC74FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZQSS6CA88E;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "derp.xcode-ui-languages";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				XROS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Debug;
+		};
+		2E5E37872EFC914700EC74FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZQSS6CA88E;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "derp.xcode-ui-languages";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				XROS_DEPLOYMENT_TARGET = 26.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2E5E37752EFC914600EC74FC /* Build configuration list for PBXProject "xcode-ui-languages" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E5E37832EFC914700EC74FC /* Debug */,
+				2E5E37842EFC914700EC74FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E5E37852EFC914700EC74FC /* Build configuration list for PBXNativeTarget "xcode-ui-languages " */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E5E37862EFC914700EC74FC /* Debug */,
+				2E5E37872EFC914700EC74FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2E5E37722EFC914600EC74FC /* Project object */;
+}
